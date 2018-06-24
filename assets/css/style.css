@@ -1361,7 +1361,7 @@ button.btn-md:hover {
 
 /*contact section css*/
 .contact{
-    background: url(../images/contactbg.png) no-repeat center center;
+    background: no-repeat center center;
     background-size: cover;
 }
 
