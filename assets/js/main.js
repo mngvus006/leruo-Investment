@@ -90,7 +90,7 @@ jQuery(document).ready(function ($) {
 
     });
 
-//fancybox
+/*fancybox
     $(".youtube-media").on("click", function (e) {
         var jWindow = $(window).width();
         if (jWindow <= 410) {
@@ -113,7 +113,7 @@ jQuery(document).ready(function ($) {
         gallery: {
             enabled: true
         },
-    });
+    });*/
 
 //mytabs
 
